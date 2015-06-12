@@ -1,15 +1,4 @@
 #EXTM3U
-
-
-
-#EXTINF:-1, [COLOR green] --Spanish Live Tv--[/COLOR]  
-http://www.youtube.com/user/hmemar22
-
-#EXTINF:-1, [COLOR yellow]Updated 09/01/15 @ 12:58 [/COLOR]  
-http://www.youtube.com/user/hmemar22
-
-
-
 ?#ýEXTINF?:-1, DISCOVERY HD
 http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
 #EXTINF:-1, HISTORY
